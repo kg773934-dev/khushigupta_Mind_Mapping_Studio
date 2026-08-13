@@ -1,0 +1,6 @@
+{
+  "name": "Mind Mapping Studio",
+  "description": "A visual productivity tool for creating, organizing, and customizing interactive mind maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
